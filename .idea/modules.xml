@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Collections.iml" filepath="$PROJECT_DIR$/.idea/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterable/Iterable.iml" filepath="$PROJECT_DIR$/Iterable/Iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
     </modules>
   </component>
 </project>
