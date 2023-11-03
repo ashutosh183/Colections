@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Collections.iml" filepath="$PROJECT_DIR$/.idea/Collections.iml" />
       <module fileurl="file://$PROJECT_DIR$/Iterable/Iterable.iml" filepath="$PROJECT_DIR$/Iterable/Iterable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/LinkedListClass/LinkedListClass.iml" filepath="$PROJECT_DIR$/LinkedListClass/LinkedListClass.iml" />
+      <module fileurl="file://$PROJECT_DIR$/List/List.iml" filepath="$PROJECT_DIR$/List/List.iml" />
       <module fileurl="file://$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" filepath="$PROJECT_DIR$/PriorityQueue/PriorityQueue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Stacks/Stacks.iml" filepath="$PROJECT_DIR$/Stacks/Stacks.iml" />
     </modules>
   </component>
 </project>
